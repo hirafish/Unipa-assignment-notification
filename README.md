@@ -1,0 +1,2 @@
+# Unipa-assignment-notification
+Universel Passportの課題期限を通知するGASのGit管理
